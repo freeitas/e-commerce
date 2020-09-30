@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 <p align="center">
-  <img alt="Layout" src="https://imgur.com/fdZHA6T">
+  <img src="https://imgur.com/fdZHA6T" width="40" height="40" />
+
 </p>
 
 

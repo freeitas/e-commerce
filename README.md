@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 <p align="center">
-  <img src="https://imgur.com/fdZHA6T" width="40" height="40" />
+  <img src="https://github.com/freeitas/e-commerce/blob/master/public/ezgif-3-36a814741c7d.gif"/>
 
 </p>
 
